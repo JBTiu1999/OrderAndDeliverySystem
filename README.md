@@ -14,17 +14,12 @@ Admin Credentials:
 
 Username: Admin, Password: 123
 
-List of Courier Accounts:
-
-John                 Courier1                courierOne123
-
-Miller               Courier2                courierTwo123
-
-Xeno                 Courier3                courierThree123
-
-Dave                 Courier4                courierFour123
-
-Xavier               Courier5                courierFive123
+List of Courier Accounts (Username, Password):
+1. John - Courier1, courierOne123
+2. Miller - Courier2, courierTwo123
+3. Xeno - Courier3, courierThree123
+4. Dave - Courier4, courierFour123
+5. Xavier - Courier5, courierFive123
 
 Steps:
 1. Select customer on the main menu.
@@ -33,7 +28,8 @@ Steps:
 4. Select an operation through the drop down menu. In this case, select unassigned orders (admin 
    is not allowed to delete an order once a courier is assigned).
 5. View the details of the order and select any of the AVAILABLE couriers. Click save and go back 
-   to main menu by pressing the button at the top left and logout.
+   to main menu by pressing the button at the top left and logout (once a courier is assigned to an order, 
+   they will be tagged as UNAVAILABLE and shall complete the delivery first before being available again).
 6. Select courier on the main menu and enter the credentials of the courier selected on the 
    previous step (refer to the table on Line 19 for courier accounts).
 7. Once logged in, selected ORDER DELIVERED button to finish the delivery process.
