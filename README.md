@@ -1,7 +1,7 @@
 # OrderAndDeliverySystem
 An order and delivery system (with management system) with HTML, PHP and MYSQL.
 WHAT TO DO:
-1. Create a database "OrderAndDeliverySystem" in PHPMyAdmin (if another name is desired, kindly edit the file "CopyPasteThisToPHPMyAdmin.sql" on line 22)
+1. Create a database "OrderAndDeliverySystem" in PHPMyAdmin (if another name is desired, kindly edit line 22 on the file "CopyPasteThisToPHPMyAdmin.sql")
 2. Copy and paste the contents of the file "CopyPasteThisToPHPMyAdmin.sql" in SQL section of PHPMyAdmin within the database created on step 1.
 3. Run the program.
 
