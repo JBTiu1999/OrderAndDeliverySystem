@@ -17,9 +17,13 @@ Username: Admin, Password: 123
 List of Courier Accounts:
 
 John                 Courier1                courierOne123
+
 Miller               Courier2                courierTwo123
+
 Xeno                 Courier3                courierThree123
+
 Dave                 Courier4                courierFour123
+
 Xavier               Courier5                courierFive123
 
 Steps:
