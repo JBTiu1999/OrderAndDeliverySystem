@@ -25,7 +25,7 @@ List of Courier Accounts (Username, Password):
 Steps:
 1. Select customer on the main menu.
 2. Select desired products and confirm the selection.
-3. When in main menu, select admin and enter the credentials mentioned above (line 13)
+3. When in main menu, select admin and enter the credentials mentioned above (line 16)
 4. Select an operation through the drop down menu. In this case, select unassigned orders (admin 
    is not allowed to delete an order once a courier is assigned).
 5. View the details of the order and select any of the AVAILABLE couriers. Click save and go back 
