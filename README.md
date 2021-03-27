@@ -10,13 +10,11 @@ ROLES:
 2. Customer - can order provided products (from database) and reserve for delivery
 3. Courier - view pending assigned orders (may vary depending on account)
 
-Admin Credentials:
-Username: Admin
-Password: 123
+Admin Credentials: 
+Username: Admin, Password: 123
 
 List of Courier Accounts:
 
-Courier Name         Courier Username        Courier Password
 John                 Courier1                courierOne123
 Miller               Courier2                courierTwo123
 Xeno                 Courier3                courierThree123
